@@ -1,11 +1,12 @@
 .card {
-    margin-top: 5rem;
+    margin-top: 2.5rem;
     border-radius: 2rem;
     overflow: hidden;
     box-shadow: 15px 20px 40px rgba(216, 211, 211, 0.4);
   }
   .card h2 {
     padding: 0.5rem 0rem;
+    z-index: 3;
   }
   .card h3 {
     font-size: 1rem;
@@ -23,7 +24,7 @@
   }
   
   .card img:hover {
-    opacity: 0.8;
+    opacity: 0.5;
   }
   
   .card img {
@@ -37,6 +38,7 @@
     align-items: center;
     justify-content: space-between;
     margin: 0.5rem 0rem;
+    
   }
   
   .text {

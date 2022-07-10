@@ -6,10 +6,17 @@
   padding: 5rem;
   font-size: 2rem;
 }
-
+.logo{
+  width: 30%;
+  height: 30%;
+  padding-top: 35px;
+}
 .main {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   grid-gap: 3rem;
+}
+.h1{
+  padding-top: 165px;
 }
 

@@ -5,8 +5,7 @@
     box-shadow: 15px 20px 40px rgba(216, 211, 211, 0.4);
   }
   .card h2 {
-    padding: 0.5rem 0rem;
-    z-index: 3;
+    padding: 0.5rem 3rem;
   }
   .card h3 {
     font-size: 1rem;
@@ -38,7 +37,6 @@
     align-items: center;
     justify-content: space-between;
     margin: 0.5rem 0rem;
-    
   }
   
   .text {
